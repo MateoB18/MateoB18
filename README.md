@@ -64,6 +64,6 @@ Actualmente trabajo en varios proyectos académicos y personales que combinan ba
 ## 📫 Contacto  
 
 📧 **Correo:** mateobragunde11@gmail.com | mateobragunde1810@outlook.com
-💼 **LinkedIn:** https://www.linkedin.com/in/mateo-bragunde-dufour-627602361  
+💼 **LinkedIn:** https://www.linkedin.com/in/mateo-bragunde-dufour-627602361
 🌍 **Portfolio Web:** https://MateoB18.github.io
 

@@ -48,15 +48,24 @@ Actualmente trabajo en varios proyectos académicos y personales que combinan ba
 - **Aerolinea (II)** → Contexto similar al anterior proyecto, desarrollado en C# con ASP.NET MVC.  
   💻 *C#, ASP.NET MVC*  
 
-- **Roteo** → Sistema interno desarrollado con C# y ASP.NET Core MVC.  
+- **Roteo (I)** → Sistema interno desarrollado con C# y ASP.NET Core MVC.  
   Implementa **arquitectura por capas** con **DTOs**, **Mappers** y **Entity Framework**, siguiendo buenas prácticas de diseño.  
   Permite el login por roles (Empleado, Gerente, Admin) y manejo de datos con SQL Server.  
-  💻 *C#, ASP.NET Core MVC, Entity Framework, SQL Server*  
+  💻 *C#, ASP.NET Core MVC, Entity Framework, SQL Server*
+
+  - **Roteo (II)**  
+  Comparado con la versión anterior, agregamos la separación de proyectos de WebAPP y API, se utilizó Swagger y también
+  se realizó el deploy de la misma en Azure con una base de datos funcional.
+  Esta se actualiza correctamente cuando el usuario solicita un reseteo de contraseña o creación de pago.
+  💻 *C#, ASP.NET Core MVC, Entity Framework, SQL Server, Azure* 
 
 - **Sistema Bicicletas (I)** → Estructuras de datos genéricas con listas y nodos.  
-  💻 *Java*  
+  💻 *Java*
 
-- **SQL Avanzado** → Procedimientos, funciones, triggers y consultas avanzadas.  
+  - **Sistema Bicicletas (II)** → Estructuras de datos genéricas con listas y nodos. Implementando el uso de **pilas, colas y recursividad**.
+  💻 *Java* 
+
+- **SQL Avanzado** → Procedimientos, funciones, triggers y consultas avanzadas en SMS. Se implementó también el uso de MongoDB.  
   💻 *SQL Server*  
 
 ---

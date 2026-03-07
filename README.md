@@ -1,78 +1,79 @@
-# 👋 ¡Hola! Soy Mateo Bragunde  
+# 👋 Hola, soy Mateo Bragunde
 
-💻 **Desarrollador en formación** | C# | ASP.NET Core | SQL | Java | HTML/CSS/JS  
-🎓 Estudiante de **Analista en Tecnologías de la Información** en **Universidad ORT - Montevideo, Uruguay**  
-💼 Actualmente trabajo en **ANCAP (atención en pista)**, mientras me formo como Analista en TI.  
-Mi objetivo es seguir creciendo hacia el desarrollo de software y aplicar mi experiencia laboral en nuevos proyectos.  
+💻 Backend Developer en formación especializado en .NET
 
----
+🎓 Estudiante de Analista en Tecnologías de la Información – Universidad ORT (Montevideo, Uruguay)
 
-## 💡 Sobre mí  
+Actualmente trabajo en ANCAP mientras continúo formándome en desarrollo de software y construyendo proyectos personales y académicos.
 
-Apasionado por el desarrollo de software, la lógica y la creación de proyectos.  
-Actualmente trabajo en varios proyectos académicos y personales que combinan backend, frontend y diseño creativo.  
-
-- 💡 Me gusta utilizar lo aprendido para resolver necesidades reales y útiles.  
-- 🌱 Busco mejorar constantemente mis habilidades de código.  
-- ⚙️ Me interesa especialmente el desarrollo **Back-End**.  
-- ⚽ Mis hobbies se basan en el fútbol, los videojuegos y la música.  
+Me interesa especialmente el desarrollo **Back-End**, la arquitectura de aplicaciones y el manejo de datos.
 
 ---
 
-## 🚀 Tecnologías y herramientas  
+## 🚀 Tecnologías
 
-🟦 C# · ASP.NET Core · Entity Framework  
-☕ Java · NetBeans  
-🧠 SQL Server · LINQ  
-🌐 HTML · CSS · JavaScript  
-🛠️ Git · GitHub · Visual Studio · VS Code  
-
----
-
-## 💼 Proyectos personales  
-
-- **Alanma Deco** → Sitio web artesanal (macramé) con diseño responsive.  
-  💻 *HTML, CSS, JS*  
-
-- **Comerzia** → Proyecto personal pensado para mi ciudad, donde actualmente no existe ninguna plataforma que centralice los comercios locales.  
-  Su objetivo es facilitar a los vecinos la búsqueda de productos, información y ofertas en un solo lugar, ayudando a los comercios a ser más visibles y a los clientes a descubrir qué hay cerca de forma rápida e intuitiva.  
-  💻 *HTML, CSS, JavaScript*  
+C# · ASP.NET Core · Entity Framework ·
+SQL Server · LINQ · Azure ·
+Java · HTML · CSS · JavaScript ·
+Git · GitHub · Visual Studio · VS Code
 
 ---
 
-## 🎓 Proyectos académicos  
+## 💼 Proyectos destacados
 
-- **Aerolinea (I)** → Sistema web con roles de Administrador y Cliente.  
-  💻 *HTML, CSS, JS*  
+📂 Los siguientes proyectos se encuentran disponibles para ver en mis repositorios.
 
-- **Aerolinea (II)** → Contexto similar al anterior proyecto, desarrollado en C# con ASP.NET MVC.  
-  💻 *C#, ASP.NET MVC*  
+### Roteo II - Proyecto académico más completo
 
-- **Roteo (I)** → Sistema interno desarrollado con C# y ASP.NET Core MVC.  
-  Implementa **arquitectura por capas** con **DTOs**, **Mappers** y **Entity Framework**, siguiendo buenas prácticas de diseño.  
-  Permite el login por roles (Empleado, Gerente, Admin) y manejo de datos con SQL Server.  
-  💻 *C#, ASP.NET Core MVC, Entity Framework, SQL Server*
+Sistema web con arquitectura separada **WebApp + API**.
 
-  - **Roteo (II)**  
-  Comparado con la versión anterior, agregamos la separación de proyectos de WebAPP y API, se utilizó Swagger y también
-  se realizó el deploy de la misma en Azure con una base de datos funcional.
-  Esta se actualiza correctamente cuando el usuario solicita un reseteo de contraseña o creación de pago.
-  💻 *C#, ASP.NET Core MVC, Entity Framework, SQL Server, Azure* 
+Incluye:
 
-- **Sistema Bicicletas (I)** → Estructuras de datos genéricas con listas y nodos.  
-  💻 *Java*
+* Arquitectura por capas
+* DTOs y Mappers
+* Entity Framework
+* Swagger
+* Deploy en Azure con base de datos funcional
+* Funciones como reseteo de contraseña y gestión de pagos
 
-  - **Sistema Bicicletas (II)** → Estructuras de datos genéricas con listas y nodos. Implementando el uso de **pilas, colas y recursividad**.
-  💻 *Java* 
-
-- **SQL Avanzado** → Procedimientos, funciones, triggers y consultas avanzadas en SMS. Se implementó también el uso de MongoDB.  
-  💻 *SQL Server*  
+Tecnologías:
+C# · ASP.NET Core · Entity Framework · SQL Server · Azure
 
 ---
 
-## 📫 Contacto  
+### Aerolínea MVC
 
-📧 **Correo:** mateobragunde11@gmail.com | mateobragunde1810@outlook.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/mateo-bragunde-dufour-627602361  
-🌍 **Portfolio Web:** https://MateoB18.github.io
+Sistema web de gestión de vuelos con roles de usuario y administrador.
 
+Tecnologías:
+C# · ASP.NET MVC 
+
+---
+
+### Clínica New Age
+
+Sistema de base de datos desarrollado utilizando **SQL Server** con lógica avanzada.
+
+Incluye:
+
+* Procedimientos almacenados
+* Funciones
+* Triggers
+* Consultas avanzadas
+* Integración conceptual con **MongoDB**
+
+Tecnologías:
+SQL Server · T-SQL · MongoDB
+
+---
+
+## 🌐 Links
+
+Portfolio Web
+https://MateoB18.github.io
+
+LinkedIn
+https://www.linkedin.com/in/mateo-bragunde-dufour
+
+Contacto
+[mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)

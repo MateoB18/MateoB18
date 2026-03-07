@@ -69,11 +69,11 @@ SQL Server · T-SQL · MongoDB
 
 ## 🌐 Links
 
-Portfolio Web
-https://MateoB18.github.io
+Portfolio Web  
+[Ver sitio](https://MateoB18.github.io)
 
-LinkedIn
-www.linkedin.com/in/mateo-bragunde-dufour-627602361
+LinkedIn  
+[Perfil](https://www.linkedin.com/in/mateo-bragunde-dufour-627602361)
 
 Contacto
 [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)

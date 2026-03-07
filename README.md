@@ -73,7 +73,7 @@ Portfolio Web
 https://MateoB18.github.io
 
 LinkedIn
-https://www.linkedin.com/in/mateo-bragunde-dufour
+www.linkedin.com/in/mateo-bragunde-dufour-627602361
 
 Contacto
 [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)

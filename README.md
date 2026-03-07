@@ -19,9 +19,9 @@ Me interesa especialmente el desarrollo **Back-End**, la arquitectura de aplicac
 
 ## 🚀 Tecnologías
 
-C# · ASP.NET Core · Entity Framework ·
-SQL Server · LINQ · Azure ·
-Java · HTML · CSS · JavaScript ·
+C# · ASP.NET Core · Entity Framework  
+SQL Server · LINQ · Azure  
+Java · HTML · CSS · JavaScript  
 Git · GitHub · Visual Studio · VS Code
 
 ---

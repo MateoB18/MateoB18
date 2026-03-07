@@ -8,6 +8,13 @@ Actualmente trabajo en ANCAP mientras continúo formándome en desarrollo de sof
 
 Me interesa especialmente el desarrollo **Back-End**, la arquitectura de aplicaciones y el manejo de datos.
 
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-purple)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-red)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)
+
 ---
 
 ## 🚀 Tecnologías
@@ -77,3 +84,11 @@ LinkedIn
 
 Contacto
 [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoB18&show_icons=true)
+
+## 💻 Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB18&layout=compact)

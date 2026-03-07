@@ -84,11 +84,3 @@ LinkedIn
 
 Contacto
 [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)
-
----
-
-## 📊 GitHub Stats
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoB18&show_icons=true)
-
-## 💻 Lenguajes más utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoB18&layout=compact)

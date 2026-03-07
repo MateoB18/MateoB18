@@ -28,8 +28,6 @@ Git · GitHub · Visual Studio · VS Code
 
 ## 💼 Proyectos destacados
 
-📂 Los siguientes proyectos se encuentran disponibles para ver en mis repositorios.
-
 ### Roteo II - Proyecto académico más completo ⭐
 
 Sistema web con arquitectura separada **WebApp + API**.

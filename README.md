@@ -65,5 +65,5 @@ Implementa estructuras de datos genéricas como **listas, pilas y colas**, aplic
 ¿Tienes un proyecto en mente, buscas un desarrollador Full-Stack o deseas conversar sobre oportunidades laborales? ¡Ponte en contacto conmigo!
 
 * 💼 **LinkedIn:** [linkedin.com/in/mateo-bragunde-dufour-627602361](https://www.linkedin.com/in/mateo-bragunde-dufour-627602361)
-* 💻 **Portfolio Web:** [mateobragunde11.github.io](https://mateobragunde11.github.io/)
+* 💻 **Portfolio Web:** [mateob18.github.io](https://mateob18.github.io/)
 * 📧 **Email:** [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)

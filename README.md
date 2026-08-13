@@ -1,69 +1,76 @@
 # 👋 ¡Hola! Soy Mateo Bragunde
 
-### 🚀 Desarrollador Full-Stack | React • Node.js • .NET • C#
+### 🚀 Desarrollador Full-Stack Jr. | React • Node.js • .NET • C#
 
-Desarrollador Full-Stack con experiencia en el desarrollo de soluciones web integrales. Combino interfaces interactivas en el Front-End (**React, JavaScript ES6+, Bootstrap, CSS3**) con arquitecturas robustas en el Back-End (**C# / .NET Core, Node.js, Java, SQL Server**).
+Desarrollador Full-Stack con experiencia en el desarrollo de soluciones web integrales. Combino interfaces interactivas en el Front-End (React, JavaScript ES6+, Bootstrap, CSS3) con arquitecturas robustas en el Back-End (C# / .NET Core, Node.js, Java, SQL Server).
 
----
+<br>
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre mí
 
-* 🎓 Estudiante de 4.º semestre de **Analista en TI en la Universidad ORT Uruguay**.
-* 💡 Me apasiona el desarrollo Full-Stack, abordando desde el diseño de la interfaz visual y la experiencia de usuario hasta la arquitectura de datos y la lógica del servidor.
-* 🛠️ Dominio de **JavaScript ES6+, Node.js y React**, trabajando principalmente con **VS Code**, complementado con el ecosistema de **C#, .NET Core, Java y SQL Server**.
-* 📐 Aplico componentes responsivos con **CSS3 y Bootstrap**, buscando crear aplicaciones ágiles, funcionales y fáciles de usar.
+- 🎓 Estudiante de 4.º semestre de Analista en TI en la Universidad ORT Uruguay.
+- 💡 Me apasiona el desarrollo Full-Stack: desde el diseño de la interfaz y la experiencia de usuario hasta la arquitectura de datos y la lógica del servidor.
+- 🛠️ Dominio de JavaScript ES6+, Node.js y React, complementado con el ecosistema de C#, .NET Core, Java y SQL Server.
+- 📐 Aplico buenas prácticas: arquitectura en capas, principios SOLID y código limpio.
+- 🏎️ Fuera del código: fanático de la Fórmula 1 (Red Bull, Max Verstappen), gamer de toda la vida y de no faltar a un buen partido de fútbol.
 
----
+<br>
 
-## 💻 Stack Tecnológico
+## 💻 Stack tecnológico
 
-### 🎨 Front-End
+**Front-End**
 
-`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Bootstrap` · `Diseño Responsive` · `APIs RESTful`
+![React](https://img.shields.io/badge/React-1c3f7c?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c3f7c?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1c3f7c?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1c3f7c?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1c3f7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Back-End & Node.js
+**Back-End**
 
-`Node.js` · `Express` · `APIs REST` · `VS Code` · `JSON` · `Programación Asíncrona`
+![Node.js](https://img.shields.io/badge/Node.js-1c3f7c?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1c3f7c?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1c3f7c?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-1c3f7c?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1c3f7c?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ .NET, Java & Bases de Datos
+**Bases de datos & nube**
 
-`C#` · `.NET Core` · `Entity Framework` · `Java` · `SQL Server` · `POO` · `Estructuras de Datos` · `Arquitectura en Capas`
+![SQL Server](https://img.shields.io/badge/SQL_Server-1c3f7c?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-1c3f7c?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1c3f7c?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1c3f7c?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+<br>
 
-## 🏆 Proyectos Destacados
+## 🏆 Proyectos destacados
 
-### ⭐ GameTracker AI — Plataforma Full-Stack
+### 🎮 GameTracker AI — Plataforma Full-Stack
+Aplicación web interactiva desarrollada con React, JavaScript y Node.js. Integra la API de RAWG para un catálogo de videojuegos y un asistente con IA para sugerencias inteligentes, gestión de avatar y personalización.
 
-Aplicación web interactiva desarrollada con **React, JavaScript y Node.js**. Integra la API de RAWG para ofrecer un catálogo de videojuegos y un asistente con IA para sugerencias inteligentes, además de funcionalidades de gestión de avatar y personalización.
-
-* 🛠️ **Stack:** `React` · `JavaScript` · `Node.js` · `CSS3` · `RAWG API` · `Vercel`
-* 🔗 **Demo en vivo:** [videojuegos-main-deploy-parte2.vercel.app](https://videojuegos-main-deploy-parte2.vercel.app/)
-
----
+`React` `JavaScript` `Node.js` `CSS3` `RAWG API` `Vercel`
 
 ### 📦 Roteo — Sistema de Gestión Interna
+Sistema empresarial desarrollado en C# y .NET Core MVC. Implementa arquitectura en capas, DTOs, Mappers, Entity Framework y persistencia con SQL Server.
 
-Sistema empresarial desarrollado en **C# y .NET Core MVC**. Implementa una arquitectura en capas, utilizando **DTOs, Mappers, Entity Framework** y persistencia de datos mediante **SQL Server**.
-
-* 🛠️ **Stack:** `C#` · `.NET Core` · `MVC` · `Entity Framework` · `SQL Server` · `DTOs` · `Mappers`
-
----
+`C#` `.NET Core` `MVC` `Entity Framework` `SQL Server` `DTOs` `Mappers`
 
 ### ✈️ Sistema Aeropuerto — Algoritmos & Estructuras de Datos
+Aplicación desarrollada en Java (NetBeans) para la gestión dinámica de operaciones aeroportuarias. Implementa estructuras de datos genéricas (listas, pilas y colas) aplicando encapsulamiento, abstracción y POO.
 
-Aplicación desarrollada en **Java** utilizando **NetBeans**, orientada a la gestión dinámica de operaciones aeroportuarias.
+`Java` `NetBeans` `Estructuras de Datos` `Pilas & Colas` `POO`
 
-Implementa estructuras de datos genéricas como **listas, pilas y colas**, aplicando principios de **encapsulamiento, abstracción y POO**.
+### 🏥 Clínica New Age — Base de Datos II
+Sistema de gestión clínica en T-SQL, con consultas complejas, procedimientos almacenados, triggers, vistas e índices para mantener la integridad y automatizar procesos.
 
-* 🛠️ **Stack:** `Java` · `NetBeans` · `Estructuras de Datos` · `Pilas & Colas` · `POO`
+`T-SQL` `Procedimientos Almacenados` `Triggers` `Vistas` `Índices` `Subconsultas & CTEs`
 
----
+<br>
 
 ## 📬 Contacto
 
-¿Tienes un proyecto en mente, buscas un desarrollador Full-Stack o deseas conversar sobre oportunidades laborales? ¡Ponte en contacto conmigo!
+¿Tenés un proyecto en mente, buscás un desarrollador Full-Stack o querés conversar sobre oportunidades laborales? ¡Escribime!
 
-* 💼 **LinkedIn:** [linkedin.com/in/mateo-bragunde-dufour-627602361](https://www.linkedin.com/in/mateo-bragunde-dufour-627602361)
-* 💻 **Portfolio Web:** [mateob18.github.io](https://mateob18.github.io/)
-* 📧 **Email:** [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/mateo-bragunde-dufour-627602361)
+💻 [Portfolio Web](https://mateob18.github.io/)
+📧 [mateobragunde11@gmail.com](mailto:mateobragunde11@gmail.com)
